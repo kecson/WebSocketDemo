@@ -1,0 +1,2 @@
+include ':webSocketClient'
+rootProject.name = 'WebSocketDemo'
